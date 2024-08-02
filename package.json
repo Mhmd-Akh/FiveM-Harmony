@@ -1,7 +1,7 @@
 {
-  "name": "FiveM-Status",
+  "name": "FiveM-Api",
   "version": "0.0.1",
-  "main": "lib/index.js",
+  "main": "lib",
   "files": [
     "lib/**/*"
   ],
@@ -10,8 +10,13 @@
     "build": "tsc",
     "dev": "tsc && cls && node test/"
   },
-  "keywords": [],
-  "author": "hadiazt",
+  "keywords": [
+    "FiveM",
+    "Status",
+    "FiveM-Api",
+    "FiveM-Status"
+  ],
+  "author": "MhmdInviS",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Mhmd-Akh/FiveM-Harmony.git"
